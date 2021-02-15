@@ -1,0 +1,52 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    font-family: 'Roboto';
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+}
+
+nav{
+    width: 50%;
+    padding: 1%;
+    box-shadow: 5px 5px;
+}
+
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+div{
+    width: 500px;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: cyan;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+h1{
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.selfImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
